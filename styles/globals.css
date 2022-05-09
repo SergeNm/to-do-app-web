@@ -11,6 +11,10 @@ a {
   text-decoration: none;
 }
 
+.heading{
+  color: rgb(5, 5, 5);
+}
+
 * {
   box-sizing: border-box;
 }
